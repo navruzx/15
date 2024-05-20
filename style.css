@@ -1,0 +1,10 @@
+.box {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    background-color: white;
+    box-shadow: 10px 10px 0px black;
+}   
+body {
+    background-color: lightgray;
+}
